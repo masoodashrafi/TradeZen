@@ -1,7 +1,7 @@
 # TradeZen
 
-# Important Notes Below:
-# Server connects directly with Data Source (communication can go both ways)
+## Important Notes Below:
+## Server connects directly with Data Source (communication can go both ways)
 # Data Source can send us information
 # Send data to the data source (Authenticate, ask data what we want)
 
