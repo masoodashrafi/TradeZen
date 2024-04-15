@@ -3,7 +3,7 @@
 ### Important Notes Below:
 ### Server connects directly with Data Source (communication can go both ways)
 ### Data Source can send us information and we send data to the data source to ask it what we want.
-### Websockets can be like push notifications on your phone and wheenever an event happens, you get a notification.
+### Websockets can be like push notifications on your phone and whenever an event happens, you get a notification.
 
 ### Inspired by: CooperCodes
 
